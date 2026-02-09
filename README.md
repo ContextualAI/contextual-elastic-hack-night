@@ -4,7 +4,7 @@
 
 Welcome to the Elastic x Contextual AI Hack Night!
 
-Tonight you'll build AI agents powered by Elasticsearch and Contextual AI's RAG platform. Start with a quick challenge to get familiar with the platform, then team up to build something unique — a research assistant, log analyzer, or your own creative use case. You'll have access to enterprise features, example agents to learn from, and Contextual AI engineers to help you along the way.
+Tonight you'll build AI agents powered by Elasticsearch and Contextual AI's Agent platform. Start with a quick challenge to get familiar with the platform, then team up to build something unique — a research assistant, log analyzer, or your own creative use case. You'll have access to enterprise features, example agents to learn from, and Contextual AI engineers to help you along the way.
 
 ## Event Challenges
 
@@ -21,7 +21,7 @@ Sign up for a **free Contextual AI account** and build your first RAG agent!
 | [Quick Start (API)](./quickstart-api.md) | Create an agent programmatically using Python |
 | [Quick Start (Notebook)](./quickstart-api.ipynb) | Run the API quickstart as a Jupyter notebook |
 
-**To submit:** Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdb941rSlQ6s4EcYMu-OwiLkC_jeI-8fD181pYnsbddQnNfTA/viewform) with:
+**To submit (and win one of the prizes):** Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdb941rSlQ6s4EcYMu-OwiLkC_jeI-8fD181pYnsbddQnNfTA/viewform) with:
 - Your email address
 - Screenshot of your agent query results
 - Optional: Did you use GUI or API?
@@ -53,7 +53,6 @@ Ready to go deeper? We'll add you to our **enterprise tenant** where you can cre
 | Agent | Description |
 |-------|-------------|
 | **3GPP Technical Specifications** | Navigate 3GPP telecom standards across multiple mobile technology generations |
-| **Supply Chain Risk Dashboard** | Analyze supply chain problems, create charts/maps, and generate PDF reports |
 | **Materials Science** | Search research papers and explain technically dense material science topics |
 | **MCP Recommender** | Find the perfect MCP server for your project from 5000+ options — use this to discover the Contextual AI docs MCP server! |
 
@@ -67,9 +66,10 @@ Ready to go deeper? We'll add you to our **enterprise tenant** where you can cre
 | **Demo Quality** | Can you clearly explain what your agent does? |
 | **LLM Extension** | Does it extend what LLMs can do on their own? |
 
+Due to time constraints, we will record live demos in advance to streamline hand off. 
 **To submit:** Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdb941rSlQ6s4EcYMu-OwiLkC_jeI-8fD181pYnsbddQnNfTA/viewform) with:
 - Your email address
-- A short video (up to 90 sec) of your agent query, retrieved context, and agent configuration
+- A short video (up to 90 sec) of your agent query, retrieved context, and agent configuration that you will present at the end. Plan to speak over your recorded demo. 
 - Optional: Did you use GUI or API?
 
 ---
