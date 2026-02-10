@@ -81,7 +81,6 @@ Due to time constraints, we will record live demos in advance to streamline hand
 - [Use Cases & Templates](https://contextual.ai/use-cases)
 - [Agent Composer YAML Guide](https://docs.contextual.ai/how-to-guides/agent-composer-yaml)
 - [Demo Gallery](https://demo.contextual.ai)
-- [Elastic Resources](./ELASTIC_RESOURCES.md)
 - [PulseMCP Directory](https://pulsemcp.com) — Browse 5000+ MCP servers
 
 ---
