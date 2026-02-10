@@ -32,6 +32,8 @@ Sign up for a **free Contextual AI account** and build your first RAG agent!
 
 ---
 
+After filling out form 1, you will have access to [https://app.contextual.ai/context-layer-hack-night](https://app.contextual.ai/context-layer-hack-night)
+
 ### Challenge 2: Build Your Own Agent
 
 **Work solo or in teams (up to 3 people)**
