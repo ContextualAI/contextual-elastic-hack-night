@@ -71,7 +71,7 @@ Ready to go deeper? We'll add you to our **enterprise tenant** where you can cre
 | **LLM Extension** | Does it extend what LLMs can do on their own? |
 
 Due to time constraints, we will record live demos in advance to streamline hand off. 
-**To submit:** Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdb941rSlQ6s4EcYMu-OwiLkC_jeI-8fD181pYnsbddQnNfTA/viewform) with:
+**To submit:** Fill out the [Google Form](https://forms.gle/4B8BszjFK5n6q9ot9) with:
 - Your email address
 - A short video (up to 90 sec) of your agent query, retrieved context, and agent configuration that you will present at the end. Plan to speak over your recorded demo. 
 - Optional: Did you use GUI or API?
