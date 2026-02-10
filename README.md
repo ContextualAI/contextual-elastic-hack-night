@@ -21,7 +21,11 @@ Sign up for a **free Contextual AI account** and build your first RAG agent!
 | [Quick Start (API)](./quickstart-api.md) | Create an agent programmatically using Python |
 | [Quick Start (Notebook)](./quickstart-api.ipynb) | Run the API quickstart as a Jupyter notebook |
 
-**To submit (and win one of the prizes):** Fill out the [Google Form](https://docs.google.com/forms/d/1ObvgC0_DNpixByZzPUqRIONoIxxX53zpGVm0lsOZgfc/edit?ts=698a4ad8) with:
+**To submit (and win one of the prizes):** Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeto2df8pft5OcRLG-uQG2GQCWrZt87Ooqcd7EI9a9K6Ka0tg/viewform?usp=dialog) with:
+
+
+
+
 - Your email address
 - Screenshot of your agent query results
 - Optional: Did you use GUI or API?
